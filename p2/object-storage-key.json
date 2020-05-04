@@ -1,0 +1,12 @@
+ "apikey": "ldXXj3RlM2shYHBrzA5utoVrY5PRDNbjD46-GeMmWujt",
+
+ 
+"access_key_id": "95e267431c7a4eba95d0a104bf57ff40",
+    
+"secret_access_key": "3a427f384e07f82039c7e09afae226d29d4ce99cc7556aea"
+
+ 
+"resource_instance_id":"crn:v1:bluemix:public:cloud-objectstorage:global:a/65f4155345b04c98a3f0838080a4ed71:138ca89d-d61c-49f9-961b-4c628c7a99ed::"
+
+엔드포인트
+s3.us.cloud-object-storage.appdomain.cloud
